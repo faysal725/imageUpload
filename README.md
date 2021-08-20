@@ -1,5 +1,7 @@
 # imageUpload
 
+Documentation:
+
 
 Its a simple GUI for upload image then edit and display its metadata on screen. Its still under developed so the edit functionality is coming soon.
 
